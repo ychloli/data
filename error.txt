@@ -1,0 +1,20 @@
+2020-11-11 15:47:08
+PermissionError(13, 'Permission denied')
+2020-11-11 15:47:17
+PermissionError(13, 'Permission denied')
+2020-11-11 15:47:23
+PermissionError(13, 'Permission denied')
+2020-11-11 16:08:19
+PermissionError(13, 'Permission denied')
+2020-11-11 16:08:19
+PermissionError(13, 'Permission denied')
+2020-11-11 16:08:19
+PermissionError(13, 'Permission denied')
+2020-11-11 16:09:30
+PermissionError(13, 'Permission denied')
+2020-11-11 16:09:30
+PermissionError(13, 'Permission denied')
+2023-04-19 11:00:29
+OSError(24, 'Too many open files')
+2023-04-19 11:00:36
+MemoryError()
